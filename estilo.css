@@ -1,0 +1,28 @@
+
+		#servicos{
+			height: 700px;
+			background-color: skyblue;
+			border:double: 8x black;
+		}
+		#parceiros{
+			height: 250px;
+			background-color: skyblue;
+			border:double 8px black;
+		}
+		footer{
+			height: 100px;
+			background-color: #222f3e;
+			border:solid 8px black;
+		}
+		/*nav,div,section,footer{
+			border:double 10px black !important;
+		}*/
+		.fundopadrao{
+			border:solid 4px orange; !important;;
+		}
+		.padraotxt{
+			font-family:arial;
+			font-size: 25px;
+			font-weight: 300;
+			font-style: italic;
+		}
